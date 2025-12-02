@@ -1,1 +1,2 @@
-function imgchange1() {document.getElementById('logo').src='./image/josai1.jpg';}
+function imgchange3() {document.getElementById('logo').src='./image/josai1.jpg';}
+function imgchange4() {document.getElementById('logo').src='./image/josai.jpg';}

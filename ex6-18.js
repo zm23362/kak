@@ -1,2 +1,2 @@
-function changeImage() {var image = document.getElementById('myImage');
-image.src = 'boo.jpg'; setTimeout(function() { image.src = 'boff.jpg'; }, 3000); // 3000ミリ秒 = 3秒}
+function imgchange1() {document.getElementById('logo').src='./image/boo.jpg';}
+function imgchange2() {document.getElementById('logo').src='./image/boff.jpg';}
